@@ -8,7 +8,7 @@ object P05 {
 		case head :: tail => reverse(tail) ::: List(head) 
 	
 	}
-
+	
 }
 
 var ls = List(1, 1, 2, 3, 5, 8)
