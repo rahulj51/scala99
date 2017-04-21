@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ef2176b-3154-4a93-b5ea-82289b0ec42d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ninetynine/P12.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ninetynine/P13.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/p0.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/p01.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/p02.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/p03.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/p04.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/p05.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/p06.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/p07.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/p08.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/old/p09.scala" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -851,7 +839,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3507000" />
+    <option name="totallyTimeSpent" value="3643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />
@@ -1027,7 +1015,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
