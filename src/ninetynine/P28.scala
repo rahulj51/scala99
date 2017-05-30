@@ -35,6 +35,7 @@ there are two list of this length. Finally, the last three lists have length 2. 
     //group by length into a map of length to list of lists
     //sort by frequency
     //flatten
+
     ListMap(l.groupBy(_.length).toSeq.sortBy(_._2.length): _*).values.toList.flatten
   }
 
